@@ -1,0 +1,1 @@
+This is a new project to build a party and accounts application using AWS Intrastructure.
